@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class_="in-text" demote_non_dropping_particle="never">
+  <info>
+    <title>Strength and Conditioning Journal</title>
+    <id>http://www.zotero.org/styles/strength-and-conditioning-journal</id>
+    <link href="http://www.zotero.org/styles/strength-and-conditioning-journal" rel="self"/>
+    <author>Converted from EndNote style by ChatGPT</author>
+    <category citation_format="author-date"/>
+    <updated>2025-08-10T00:00:00+00:00</updated>
+  </info>
+  <citation et_al_min="3" et_al_use_first="1">
+    <layout delimiter=", ">
+      <text variable="author"/>
+      <date variable="issued" form="text"/>
+      <text variable="title"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout suffix=".">
+      <text variable="author"/>
+      <date variable="issued" form="text"/>
+      <text variable="title"/>
+      <text variable="container-title"/>
+      <text variable="volume"/>
+      <text variable="page"/>
+    </layout>
+  </bibliography>
+</style>
